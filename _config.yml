@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TangRui Blog"
+title                    : "Tang Rui"
 title_separator          : "-"
 name                     : &name "Tang Rui"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Tang Account"
+  name             : "Tang Rui"
   avatar           : "tr.jpg"
   bio              : "Research scientist at Wuhan University, expert in all things test and account related"
   location         : "Location"
