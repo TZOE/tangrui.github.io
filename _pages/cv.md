@@ -28,7 +28,7 @@ Work experience
   
 Skills
 ======
-* 遥感影像解译
+* Remote sensing image interpretation
 * Skill 2
 * Skill 3
 
