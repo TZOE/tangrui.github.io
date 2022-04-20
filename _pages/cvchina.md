@@ -9,28 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
 * 工学硕士, 武汉大学, 电子信息学院, 信号与信息处理专业, 2016.09-2020.06
 * 工学学士, 武汉大学, 电子信息学院, 通信工程（卓越工程师计划）排名:4/121
 
-Work experience
+研究方向
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 遥感影像解译、计算机视觉、机器学习算法
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+专业技能
 ======
-* Remote sensing image interpretation
-* 遥感影像解译
-* Skill 3
+* 熟悉 Python、Pytorch，了解 C++、OpenCV
 
 Publications
 ======
