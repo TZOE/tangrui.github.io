@@ -53,17 +53,11 @@ redirect_from:
 * 武汉大学电子设计竞赛三等奖 (2018)
 * 武汉大学优秀学生奖学金二等奖 (2018、2019、2020)
 
-Talks
+课程助教
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 武汉大学电子信息学院 2018 级卓越工程师班、人工智能试点班《数字信号处理》（通信工程、电子信息工程本科核心课程）
+* 武汉大学电子信息学院 2019 级卓越工程师班、人工智能试点班《数字信号处理》（通信工程、电子信息工程本科核心课程）
+* 武汉大学电子信息学院 2019 级卓越工程师班《信号与系统》（通信工程、电子信息工程本科核心课程）。
   
 Service and leadership
 ======
