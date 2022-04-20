@@ -22,7 +22,7 @@ redirect_from:
 ======
 * 熟悉 Python、Pytorch，了解 C++、OpenCV
 
-Publications
+论文发表
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
