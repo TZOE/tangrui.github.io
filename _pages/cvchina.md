@@ -42,6 +42,18 @@ Publications
 * 面向卫星空天地一体化网络的安全技术研究 2020.01-2021.12
 设计卫星网络的群组密钥管理方案，对密钥分发和密钥更新消息进行保护，研究成果已通过专家评审，国防专利申请中；设计安全、高效的星间、星地终端随遇接入与身份认证方案，研究成果形成研究报告已通过专家评审
 
+
+学术报告
+======
+2021 年 IEEE International Geoscience and Remote Sensing Symposium（国际地学与遥感会议), 口头报告：Deep Graph Cluster Based Unsupervised Representation Learning For PolSAR Image Classification，网络会议，2021年7月14日。
+
+奖励与荣誉
+======
+* 全国大学生 FPGA 创新设计邀请赛特等奖（Top 1/410）(2018)
+* 华中数学建模大赛二等奖 (2019)
+* 武汉大学电子设计竞赛三等奖 (2018)
+* 武汉大学优秀学生奖学金二等奖 (2018、2019、2020)
+
 Talks
 ======
   <ul>{% for post in site.talks %}
