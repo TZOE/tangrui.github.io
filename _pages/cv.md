@@ -29,7 +29,7 @@ Work experience
 Skills
 ======
 * Remote sensing image interpretation
-* Skill 2
+* 遥感影像解译
 * Skill 3
 
 Publications
