@@ -1,6 +1,6 @@
 ---
 title: "仓库自动驾驶机器人控制系统构建"
-excerpt: "Short description of project item number 1<br/><img src='/images/Robot_workflow.png'><video src='/files/robot_demo_Trim.mp4' controls='controls' width='500' height='300'>"
+excerpt: "Short description of project item number 1<br/><img src='/images/Robot_workflow.png'><br/><video src='/files/robot_demo_Trim.mp4' controls='controls' width='1000' height='600'>"
 collection: project
 ---
 
