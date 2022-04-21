@@ -10,3 +10,4 @@ collection: project
 * 本人承担项目主要负责人，主要承担工作：方案制定，Unity 仿真环境搭建，AI 规划层强化算法设计，AI 执行层控制算法设计，AI 执行层强化学习算法设计与实现。
 
 <img src='/images/Robot_workflow.png'>
+<video src='/files/robot_demo_Trim.mp4' controls='controls' width='1000' height='600'>
