@@ -1,7 +1,7 @@
 ---
 title: "仓库自动驾驶机器人控制系统构建"
 excerpt: "Short description of project item number 1<br/><img src='/images/Robot_workflow.png'>"
-excerpt: "<src='/files/robot_demo_Trim.mp4'>"
+excerpt: "<video src='/files/robot_demo_Trim.mp4'>"
 collection: project
 ---
 
@@ -10,3 +10,5 @@ collection: project
 通过图像、激光传感器等数据进行强化学习，实现自动驾驶运输货物。
 * 本人承担项目主要负责人，主要承担工作：方案制定，Unity 仿真环境搭建，AI 规划层强化算法设计，AI 执行层控制算法设计，AI 执行层
 强化学习算法设计与实现。
+
+excerpt: "Short description of project item number 1<br/><img src='/images/Robot_workflow.png'>"
