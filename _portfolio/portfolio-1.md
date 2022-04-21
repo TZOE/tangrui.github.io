@@ -1,6 +1,6 @@
 ---
 title: "仓库自动驾驶机器人控制系统构建"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Robot_workflow.png'>"
 collection: portfolio
 ---
 
