@@ -30,7 +30,7 @@ redirect_from:
 
 主要项目经历
 ======
-* 极化合成孔径雷达 (PolSAR) 影像动态序列建模与场景精细解译（国家自然基金资助项目）2020.03-2022.06  
+* 遥感图像多模态特征融合挖掘与场景精细解译（国家自然基金资助项目）2020.03-2022.06  
 (1) 基于多层近邻图检索，提出半监督多域融合图网络，在极少量标注样本下对遥感图像的极化特征与空间特征进行融合特征建模。在遥感图像地物分类任务中达到SOTA，成果已投稿SCI一区Top期刊TIP。 [See details](https://tangrui2018.github.io/publication/2015-10-01-paper-title-number-3)  
 (2) 提出多模态无监督尺度学习，提取遥感图像的空间分布同质性的特征，探索遥感图像的特征模态、空间模态与密度模态的特性，结合近邻图检索，实现无监督的遥感图像表示与分类，成果已投稿SCI一区Top期刊TGRS。  [See details](https://tangrui2018.github.io/publication/2015-10-01-paper-title-number-2)  
 (3) 提出无监督的自发聚类网络，称为深度图聚类。结合空间信息和极化相干矩阵来表示和聚类数据，脱离标注样本实现分类，在多个 PolSAR数据集上具有 9%-11% 的准确率提升，研究成果已投稿 EI 会议  [See details](https://tangrui2018.github.io/publication/2015-10-01-paper-title-number-1)  
