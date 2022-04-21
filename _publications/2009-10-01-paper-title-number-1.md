@@ -2,7 +2,7 @@
 title: "Deep Graph Cluster Based Unsupervised Representation Learning for PolSAR Image Classification"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'R. Tang, X. Xu, R. Yang and R. Gui. Published in IEEE International Geoscience and Remote Sensing Symposium, 2021 <br/><img src='/images/IGARSS.png'>'
+excerpt: "R. Tang, X. Xu, R. Yang and R. Gui. Published in IEEE International Geoscience and Remote Sensing Symposium, 2021 <br/><img src='/images/IGARSS.png'>"
 date: 2021-12-12
 
 paperurl: 'https://ieeexplore.ieee.org/document/9554547'
