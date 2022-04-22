@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tang Rui"
 title_separator          : "-"
-name                     : &name "Tang Rui"
+name                     : &name "唐瑞"
 description              : &description "personal description"
 url                      : https://tangrui2018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
