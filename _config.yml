@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tang Rui"
   avatar           : "tr.jpg"
-  bio              : "Research scientist at Wuhan University, expert in all things test and account related"
-  location         : "Location"
+  bio              : "M.S. at Wuhan University, expert in Computer Vision & Remote Sensing"
+  location         : "Wuhan University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "www.tangr@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TZOE"
+  github           : "https://github.com/tangrui2018"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0738-1013"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
